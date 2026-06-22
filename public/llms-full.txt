@@ -2,13 +2,13 @@
 
 A dropshipping e-commerce store specializing in UNIQLO clothing, offering the brand's signature minimalist, functional, and high-quality Japanese fashion to online shoppers. The store aims to leverage UNIQLO's well-known aesthetic of simplicity, comfort, and everyday elegance to attract fashion-conscious consumers seeking quality wardrobe essentials.
 
-Source: https://uniqlo-0f178f79.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם האופנה היפנית — UNIQLO
 
-URL: https://uniqlo-0f178f79.zappy5.app
+URL: https://example.com
 Description: היכנסו לחנות הדרופשיפינג המובילה לבגדי UNIQLO אונליין. קולקציית essentials מינימליסטית, נוחה ואיכותית במחירים משתלמים. שדרגו את המלתחה עכשיו!
 
 גלה את עולם האופנה היפנית — UNIQLO
@@ -446,7 +446,7 @@ Description: היכנסו לחנות הדרופשיפינג המובילה לב�
 
 ## הפילוסופיה שמאחורי הבגד — UNIQLO
 
-URL: https://uniqlo-0f178f79.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: צללו לסיפור המותג UNIQLO: חדשנות, פשטות ואיכות ללא פשרות. גלו איך בגדים פונקציונליים משנים את חוויית הלבוש היומיומית. הצטרפו למסע עכשיו!
 
 הפילוסופיה שמאחורי הבגד — UNIQLO
@@ -830,7 +830,7 @@ Description: צללו לסיפור המותג UNIQLO: חדשנות, פשטות �
 
 ## אופנה ירוקה מתחילה כאן — UNIQLO
 
-URL: https://uniqlo-0f178f79.zappy5.app/sustainability-care
+URL: https://example.com/sustainability-care
 Description: התחייבות UNIQLO לקיימות וטיפוח: בגדים שמייצרים השפעה חיובית על הסביבה ועליכם. למדו על LifeWear והצטרפו למהפכה הירוקה במחיר שווה לכל כיס!
 
 אופנה ירוקה מתחילה כאן — UNIQLO
@@ -1209,7 +1209,7 @@ Description: התחייבות UNIQLO לקיימות וטיפוח: בגדים ש�
 
 ## דברו איתנו, נתפור לכם מענה — UNIQLO
 
-URL: https://uniqlo-0f178f79.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בהזמנת UNIQLO אונליין? צוות התמיכה המסור שלנו זמין לכל שאלה על מידות, משלוחים או החזרות. פנו אלינו עוד היום לחוויית קנייה מושלמת!
 
 דברו איתנו, נתפור לכם מענה — UNIQLO
@@ -1557,7 +1557,7 @@ Description: צריכים עזרה בהזמנת UNIQLO אונליין? צוות 
 
 ## מוצרים
 
-URL: https://uniqlo-0f178f79.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - UNIQLO
 
 מוצרים - UNIQLO
@@ -1801,7 +1801,7 @@ Description: המוצרים שלנו - UNIQLO
 
 ## עגלת קניות
 
-URL: https://uniqlo-0f178f79.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - UNIQLO
@@ -2021,7 +2021,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://uniqlo-0f178f79.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - UNIQLO
@@ -2427,7 +2427,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://uniqlo-0f178f79.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - UNIQLO
@@ -2654,7 +2654,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://uniqlo-0f178f79.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - UNIQLO
@@ -3036,7 +3036,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://uniqlo-0f178f79.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - UNIQLO
@@ -3280,7 +3280,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://uniqlo-0f178f79.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - UNIQLO
@@ -3553,7 +3553,7 @@ UNIQLO מחויבת לשביעות רצון לקוחותיה. מדיניות ז�
 
 ## פרטי המוצר
 
-URL: https://uniqlo-0f178f79.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - UNIQLO
 
 פרטי המוצר - UNIQLO
@@ -3775,7 +3775,7 @@ Description: פרטי המוצר - UNIQLO
 
 ## מוצרים
 
-URL: https://uniqlo-0f178f79.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - UNIQLO
 
 מוצרים - UNIQLO
@@ -4021,7 +4021,7 @@ Description: מוצרים - UNIQLO
 
 ## מדיניות פרטיות
 
-URL: https://uniqlo-0f178f79.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4287,7 +4287,7 @@ UNIQLO ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 ## הצהרת נגישות
 
-URL: https://uniqlo-0f178f79.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4562,7 +4562,7 @@ UNIQLO מחויבת להנגיש את השירותים לכלל הציבור. א
 
 ## תנאי שימוש
 
-URL: https://uniqlo-0f178f79.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4856,7 +4856,7 @@ UNIQLO מספקת E-commerce / Fashion Dropshipping דרך האתר. השירו�
 
 ## תודה רבה - פנייתך התקבלה | UNIQLO
 
-URL: https://uniqlo-0f178f79.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. צוות שירות הלקוחות של www uniqlo jp קיבל את הודעתך ויחזור אליך בהקדם.
 
 תודה רבה - פנייתך התקבלה | UNIQLO

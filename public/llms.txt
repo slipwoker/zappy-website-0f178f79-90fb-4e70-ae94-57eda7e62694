@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://uniqlo-0f178f79.zappy5.app
+https://example.com
 היכנסו לחנות הדרופשיפינג המובילה לבגדי UNIQLO אונליין. קולקציית essentials מינימליסטית, נוחה ואיכותית במחירים משתלמים. שדרגו את המלתחה עכשיו!
 
 ### הסיפור שלנו
-https://uniqlo-0f178f79.zappy5.app/brand-story
+https://example.com/brand-story
 צללו לסיפור המותג UNIQLO: חדשנות, פשטות ואיכות ללא פשרות. גלו איך בגדים פונקציונליים משנים את חוויית הלבוש היומיומית. הצטרפו למסע עכשיו!
 
 ### קיימות וטיפוח
-https://uniqlo-0f178f79.zappy5.app/sustainability-care
+https://example.com/sustainability-care
 התחייבות UNIQLO לקיימות וטיפוח: בגדים שמייצרים השפעה חיובית על הסביבה ועליכם. למדו על LifeWear והצטרפו למהפכה הירוקה במחיר שווה לכל כיס!
 
 ### צור קשר
-https://uniqlo-0f178f79.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בהזמנת UNIQLO אונליין? צוות התמיכה המסור שלנו זמין לכל שאלה על מידות, משלוחים או החזרות. פנו אלינו עוד היום לחוויית קנייה מושלמת!
 
 ### Products
-https://uniqlo-0f178f79.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - UNIQLO
 
 ### Cart
-https://uniqlo-0f178f79.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://uniqlo-0f178f79.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://uniqlo-0f178f79.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://uniqlo-0f178f79.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://uniqlo-0f178f79.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://uniqlo-0f178f79.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - UNIQLO
 
 ### Category
-https://uniqlo-0f178f79.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - UNIQLO
 
 ### תודה רבה - פנייתך התקבלה | UNIQLO
-https://uniqlo-0f178f79.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. צוות שירות הלקוחות של www uniqlo jp קיבל את הודעתך ויחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://uniqlo-0f178f79.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://uniqlo-0f178f79.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://uniqlo-0f178f79.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Fashion Dropshipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://uniqlo-0f178f79.zappy5.app/sitemap.xml
-- Robots: https://uniqlo-0f178f79.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://uniqlo-0f178f79.zappy5.app/llms-full.txt
-- Products (JSON): https://uniqlo-0f178f79.zappy5.app/products.json
-- Products (Google Merchant RSS): https://uniqlo-0f178f79.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
