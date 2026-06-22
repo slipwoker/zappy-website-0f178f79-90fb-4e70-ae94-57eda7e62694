@@ -1,0 +1,104 @@
+# UNIQLO — Generative Engine Optimization Map
+
+> A dropshipping e-commerce store specializing in UNIQLO clothing, offering the brand's signature minimalist, functional, and high-quality Japanese fashion to online shoppers. The store aims to leverage UNIQLO's well-known aesthetic of simplicity, comfort, and everyday elegance to attract fashion-conscious consumers seeking quality wardrobe essentials.
+
+---
+
+## Pages
+
+### בית
+https://uniqlo-0f178f79.zappy5.app
+היכנסו לחנות הדרופשיפינג המובילה לבגדי UNIQLO אונליין. קולקציית essentials מינימליסטית, נוחה ואיכותית במחירים משתלמים. שדרגו את המלתחה עכשיו!
+
+### הסיפור שלנו
+https://uniqlo-0f178f79.zappy5.app/brand-story
+צללו לסיפור המותג UNIQLO: חדשנות, פשטות ואיכות ללא פשרות. גלו איך בגדים פונקציונליים משנים את חוויית הלבוש היומיומית. הצטרפו למסע עכשיו!
+
+### קיימות וטיפוח
+https://uniqlo-0f178f79.zappy5.app/sustainability-care
+התחייבות UNIQLO לקיימות וטיפוח: בגדים שמייצרים השפעה חיובית על הסביבה ועליכם. למדו על LifeWear והצטרפו למהפכה הירוקה במחיר שווה לכל כיס!
+
+### צור קשר
+https://uniqlo-0f178f79.zappy5.app/contact
+צריכים עזרה בהזמנת UNIQLO אונליין? צוות התמיכה המסור שלנו זמין לכל שאלה על מידות, משלוחים או החזרות. פנו אלינו עוד היום לחוויית קנייה מושלמת!
+
+### Products
+https://uniqlo-0f178f79.zappy5.app/products
+המוצרים שלנו - UNIQLO
+
+### Cart
+https://uniqlo-0f178f79.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://uniqlo-0f178f79.zappy5.app/checkout
+תשלום
+
+### Login
+https://uniqlo-0f178f79.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://uniqlo-0f178f79.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://uniqlo-0f178f79.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://uniqlo-0f178f79.zappy5.app/product/:slug
+פרטי המוצר - UNIQLO
+
+### Category
+https://uniqlo-0f178f79.zappy5.app/category/:slug
+מוצרים - UNIQLO
+
+### תודה רבה - פנייתך התקבלה | UNIQLO
+https://uniqlo-0f178f79.zappy5.app/thank-you
+תודה שפנית אלינו. צוות שירות הלקוחות של www uniqlo jp קיבל את הודעתך ויחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://uniqlo-0f178f79.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://uniqlo-0f178f79.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://uniqlo-0f178f79.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About UNIQLO
+A dropshipping e-commerce store specializing in UNIQLO clothing, offering the brand's signature minimalist, functional, and high-quality Japanese fashion to online shoppers. The store aims to leverage UNIQLO's well-known aesthetic of simplicity, comfort, and everyday elegance to attract fashion-conscious consumers seeking quality wardrobe essentials.
+
+## Target Audience
+- מקצוענים צעירים עירוניים
+- חובבי אופנה בת קיימא
+- קונים מקוונים תכופים
+
+## Industry
+E-commerce / Fashion Dropshipping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://uniqlo-0f178f79.zappy5.app/sitemap.xml
+- Robots: https://uniqlo-0f178f79.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://uniqlo-0f178f79.zappy5.app/llms-full.txt
+- Products (JSON): https://uniqlo-0f178f79.zappy5.app/products.json
+- Products (Google Merchant RSS): https://uniqlo-0f178f79.zappy5.app/product-feed.xml
